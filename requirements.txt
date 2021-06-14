@@ -13,4 +13,4 @@ selenium==3.141.0
 
 # You'll probably need to update this later
 # https://github.com/danielkaiser/python-chromedriver-binary/tags
-chromedriver-binary==92.0.4515.43.0
+chromedriver-binary==91.0.4472.101
