@@ -26,3 +26,11 @@ export REQUESTS_CA_BUNDLE=${CERT_PATH}
 ```python
 pip install chromedriver-binary
 ```
+
+
+-------
+# Selenium on GCP:
+
+* [Setting Up Google Cloud Platform (GCP) To Run Selenium Grid In Docker Container](https://medium.com/@cgte/selenium-grid-in-docker-using-serenity-in-google-cloud-47b57deab5d)
+
+* [Fake display Slack Overflow](https://stackoverflow.com/questions/20032470/is-it-possible-to-run-selenium-scripts-using-google-compute-engine)
